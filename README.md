@@ -24,6 +24,9 @@ Here are some ideas to get you started:
     <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </div>
 
+<br />
+<br />
+
 <div>
   <a href="https://github.com/YgorSaturnino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YgorSaturnino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
